@@ -1,2 +1,3 @@
 # PyLadies Endeavours
-<h1> Intro to Python with Generative AI </h1>
+**Intro to Python with Generative AI @ AMK NLB **
+
