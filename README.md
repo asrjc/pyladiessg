@@ -1,2 +1,2 @@
 # PyLadies Endeavours
-## Intro to Python with Generative AI (introtopython)
+<h1> Intro to Python with Generative AI </h1>
