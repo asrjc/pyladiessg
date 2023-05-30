@@ -17,3 +17,5 @@ Slides & Finished Colab Notebooks are availiable here for reference.
 
 <a href = "https://github.com/vi-nita/savetheworld1"> Vinita </a>
 
+<a href = "https://github.com/ruxi00"> Ruixin </a>
+
