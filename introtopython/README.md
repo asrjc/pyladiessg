@@ -19,3 +19,5 @@ Slides & Finished Colab Notebooks are availiable here for reference.
 
 <a href = "https://github.com/ruxi00"> Ruixin </a>
 
+<a href = "https://github.com/matchaprata"> Trisha </a>
+
