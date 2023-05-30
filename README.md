@@ -6,7 +6,7 @@ Slides & Finished Colab Notebooks are availiable here for reference.
 ## PyBoys
 <a href = "https://github.com/didumfernando"> Didum </a>
 
-<a href = "https://github.com/DaCrazyLime"> Jayreth </a>
+<a href = "https://github.com/DaCrazyLime"> Jareth </a>
 
 <a href = "https://github.com/BlazingfuryKing"> Aakarsh </a>
 
