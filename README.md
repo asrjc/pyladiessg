@@ -12,6 +12,8 @@ Slides & Finished Colab Notebooks are availiable here for reference.
 
 ## PyLadies
 <a href = "https://github.com/Ninrolds6"> Clara </a>
+
 <a href = "https://github.com/yishun20"> Yi Xuan </a>
+
 <a href = "https://github.com/vi-nita/savetheworld1"> Vinita </a>
 
